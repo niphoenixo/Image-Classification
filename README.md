@@ -8,3 +8,11 @@
 ### ● The dataset needed to be preprocessed, then train a convolutional neural network on all the samples. Further, the task was to normalize the images, one-hot encode the labels &next to build a convolutional layer, max pool layer, and fully connected layer.
 
 ### ● At the end, their predictions on the sample images were derived.
+
+
+
+## This project contains 3 files:
+
+   ### ● image_classification.ipynb: This is the main file where all code is present.
+   ### ● Two helper files, problem_unittests.py and helper.py
+
